@@ -2,7 +2,9 @@
   "full_name": "",
   "email": "",
   "github_username": "",
-  "project_name": "",
+  "project_name": {
+    "description": "Project Name (must be <33 characters as per internal guidelines)"
+  },
   "app_name": "",
   "project_short_description": "",
   "use_pipenv": "",
